@@ -4,3 +4,7 @@ welcome to calci
 addition 
  
 num1+numb2 = result
+
+sub:
+
+num1 - num2 = sub
